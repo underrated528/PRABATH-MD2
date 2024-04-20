@@ -20,8 +20,8 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "PRABATH-MD_veDuXSmt",
-BOT_NUMBER: process.env.BOT_NUMBER || "254 740 704963",
+SESSION_ID: process.env.SESSION_ID || "PRABATH-MD_e28xFMFp",
+BOT_NUMBER: process.env.BOT_NUMBER || "254 740419256",
 PASSWORD: process.env.PASSWORD || "kanko3692",
 GITHUB_USERNAME: process.env.GITHUB_USERNAME || "underrated528",
 GITHUB_AUTH_TOKEN: process.env.GITHUB_AUTH_TOKEN || "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"
